@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbD4WIqLG29lZCUfp5QhC2tjk8AoPwRdC699SjmwCrN8bSk93AsvxQ9FpobvY7Aa3qgyPFNvDUKJPRKKgkvfbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alvaro Alvarado\\Documents\\Dev\\EasyCooking\\EasyCooking.iOS\\EasyCooking.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvaro Alvarado\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alvaro Alvarado\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Alvaro Alvarado\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
